@@ -36,10 +36,6 @@ app.get("./hobbies", function (req, res) {
 });
 
 
-app.use((request, response) => {
-    response.writeHead(404, { "Content-Type": "text/plain" });
-    response.end("404 error!\n");
-  });
 
   let port = 8000;
   app.listen(port, function () {
