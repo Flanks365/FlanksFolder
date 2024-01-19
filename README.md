@@ -22,7 +22,7 @@ List technologies (with version numbers), API's, icons, fonts, images, media or 
 ## 5. Project folder contents
 Top level of project folder: 
 * Main.js          # main server.js meant purely to express handle
-*Public folder
+* Public folder
 
 Subfolders and their contents:
 * CSS
