@@ -21,17 +21,17 @@ List technologies (with version numbers), API's, icons, fonts, images, media or 
 
 ## 5. Project folder contents
 Top level of project folder: 
-├── Main.js          # main server.js meant purely to express handle
-├── Public folder
+* Main.js          # main server.js meant purely to express handle
+*Public folder
 
 Subfolders and their contents:
-├── CSS
-    ├── /experstyle.css          *experience.html's styling
-    ├── /frontstyle.css
-├── HTML
-    ├── /experience.html
-    ├── /frontpage.html
-├── Img
-├── Js
-    ├── /client.js           * client javascript when webapp is loaded
+* CSS
+    * /experstyle.css          # experience.html's styling
+    * /frontstyle.css
+* HTML
+    * /experience.html
+    * /frontpage.html
+* Img
+* Js
+    * /client.js           # client javascript when webapp is loaded
 
